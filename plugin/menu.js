@@ -26,7 +26,7 @@ const defaultMenu = {
 ┃⬡ Uptime: %uptime (%muptime)
 ┃⬡ Database: %rtotalreg dari %totalreg
 ┃⬡ Instagram
-┃⬡ gda cok
+┃⬡ 
 ┃
 ┗━━━━━━⬣`.trimStart(),
     header: '┏━━〔 %category 〕━⬣',

@@ -6,13 +6,13 @@ let handler = async(m, { conn }) => {
 ├ 2 Bulan
 ├ 1 Bulan
 ├ 1 Minggu
-├ 3 hari
+├ 3 hari trial chat owner
 └────
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa (ISAT): 085730903853 (+5.000)
-Gopay: 085730903853
+Pulsa (telkom): 082146218274
+Gopay: gada cok🗿
 `.trim()
     const button = {
         buttonText: 'List Harga',

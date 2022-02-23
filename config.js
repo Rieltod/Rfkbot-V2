@@ -18,7 +18,7 @@ global.linkGC = ['https://chat.whatsapp.com/L4wHUhXDZQyIX9d8eDNV76', ''] // gant
 global.owner = ['6282146218274','6282146218274'] // Put your number here //owner eval
 global.kontak = ['6282146218274','6282146218274'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6282146218274','6282146218274','6282146218274'] // Premium user has unlimited limit
+global.prems = ['6281251497082','6282146218274','6282146218274'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -52,7 +52,7 @@ kasihcaption = `gada om:) `
 
 
 
-namakontak1 = 'Rielbot'
+namakontak1 = 'RielXzy'
 namakontak2 = 'rielXzy (Owner)'
 
 //kasihcaption = `Follow github gw `https://github.com/Rieltod
@@ -62,7 +62,7 @@ global.packname = 'RielXzy' // ganti aja
 global.author = 'riel Bot' // ganti aja
 
 //yyy
-bc = 'MursidXzy' //RielBot Broadcast
+bc = 'RielXzy' //RielBot Broadcast
 footer = `\n©wabot-aq`
 namabot = `rielXbotz`
 namalu = 'RielXzy'
@@ -70,7 +70,7 @@ namalu = 'RielXzy'
 
 // 
 wait = '_*Tunggu Sebentar orang sabar di sayang riel...*_'
-global.wait = '_*Tunggu Sebentar orang sabar di sayang mursid...*_'
+global.wait = '_*Tunggu Sebentar orang sabar di sayang riel...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error kak*_'

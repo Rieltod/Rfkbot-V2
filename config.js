@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/L4wHUhXDZQyIX9d8eDNV76', ''] // ganti jadi group lu
+global.owner = ['6282146218274','6282146218274'] // Put your number here //owner eval
+global.kontak = ['6282146218274','6282146218274'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6282146218274','6282146218274','6282146218274'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -46,27 +46,30 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'mursid.st'
+namaig = 'gada om:)'
 namagithub = 'Botwa021'
-kasihcaption = `Follow Ig @mursid.st`
-namakontak1 = '🐼🔥'
-namakontak2 = 'Mursid (Owner)'
+kasihcaption = `gada om:) `
 
-//kasihcaption = `Follow Ig @mursid.st`
+
+
+namakontak1 = 'Rielbot'
+namakontak2 = 'rielXzy (Owner)'
+
+//kasihcaption = `Follow github gw `https://github.com/Rieltod
 
 // Sticker WM
-global.packname = 'MursidXzy' // ganti aja
-global.author = 'WhatsApp Bot' // ganti aja
+global.packname = 'RielXzy' // ganti aja
+global.author = 'riel Bot' // ganti aja
 
 //yyy
-bc = 'MursidXzy' //MursidXzy Broadcast
+bc = 'MursidXzy' //RielBot Broadcast
 footer = `\n©wabot-aq`
-namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+namabot = `rielXbotz`
+namalu = 'RielXzy'
 
 
 // 
-wait = '_*Tunggu Sebentar orang sabar di sayang mursid...*_'
+wait = '_*Tunggu Sebentar orang sabar di sayang riel...*_'
 global.wait = '_*Tunggu Sebentar orang sabar di sayang mursid...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'

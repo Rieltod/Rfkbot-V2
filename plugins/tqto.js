@@ -23,6 +23,8 @@ BIG THANKS TO
 •Baka Botz
 •ZeeoneOfc
 •Zeks
+•RielXzy
+•lanXzy
 •Rendycraft  
 •Nadin
 •Aca Mirabel
